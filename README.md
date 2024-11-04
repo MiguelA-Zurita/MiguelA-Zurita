@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Miguel, I am a student in International Education Center or CIDE. Currently I'm studying programming in Java, Python, and others, you are free to check out my repositories.
 <!--
 **MiguelA-Zurita/MiguelA-Zurita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
